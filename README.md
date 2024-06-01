@@ -7,7 +7,7 @@
 </p>
 
 
-<h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=350&lines=ᴊᴀʀᴠɪs+ᴛʜᴇ+ʀᴏʙᴏ"></b></h1>
+<h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=350&lines=𝘕𝘖𝘉𝘐𝘛𝘈+𝘙𝘖𝘉𝘖+𝘚𝘏𝘐𝘕𝘐𝘊"></b></h1>
 
 <p align="center"><a href="https://t.me/BTW_AYU_0"><img src="https://telegra.ph/file/61e5b8d8ea084ffcdba57.jpg" width="600"></a></p>
 
